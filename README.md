@@ -53,22 +53,6 @@ Implemented inference algorithms for Bayes Nets, specifically variable eliminati
 
 Updated belief distribuition of ghost agents based on sequential noise readings and distribution of future ghost agent states. Moved pacman based on closest likely ghost location. Then, used particle filtering to achieve the same result. Finally, implemented joint particle filtering algorithm with multiple reactive ghosts.
 
-![UI V2](https://github.com/szzxljr/CS188_Course_Projects/blob/master/Photos/Project5/P1.png)
-
-![UI V2](https://github.com/szzxljr/CS188_Course_Projects/blob/master/Photos/Project5/P2.png)
-
-![UI V2](https://github.com/szzxljr/CS188_Course_Projects/blob/master/Photos/Project5/P3.png)
-
-![UI V2](https://github.com/szzxljr/CS188_Course_Projects/blob/master/Photos/Project5/P4.png)
-
-![UI V2](https://github.com/szzxljr/CS188_Course_Projects/blob/master/Photos/Project5/P5.png)
-
-![UI V2](https://github.com/szzxljr/CS188_Course_Projects/blob/master/Photos/Project5/P6.png)
-
-![UI V2](https://github.com/szzxljr/CS188_Course_Projects/blob/master/Photos/Project5/P7.png)
-
-![UI V2](https://github.com/szzxljr/CS188_Course_Projects/blob/master/Photos/Project5/P8.png)
-
 ## Project 6 Classification (Not completed yet)
 
 Implemented perceptron classifier and MIRA classifier to read handwritten digits. Improved features used to distinguish digits. Applied machine learning to pacman games. Improved pacman features.
